@@ -1,0 +1,15 @@
+
+.bg-pink {
+    background-color: #eec2d0;
+    font-style: italic;
+}
+.btn-pink {
+    background-color: #eec2d0;
+}
+.jumbotron{
+    padding-top: 6rem;
+}
+
+section {
+    padding-top: 5rem;
+}
